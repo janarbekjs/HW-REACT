@@ -1,1 +1,104 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 
+section {
+  height: 140vh;
+  padding-left: 30%;
+  background-color: rgba(160, 151, 151, 0.795);
+}
+
+.rabotaet {
+  padding-top: 10%;
+}
+
+.ishtedigo {
+  padding-top: 10%;
+}
+
+h1 {
+  font-size: 2rem;
+  padding-bottom: 20px;
+}
+
+.container {
+  padding-left: 270px;
+  margin-top: -15%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.companent {
+  display: flex;
+  gap: 20px;
+}
+
+.companent1 {
+  display: flex;
+  gap: 20px;
+}
+
+img {
+  width: 250px;
+  height: 350px;
+}
+
+.parograft {
+  font-size: larger;
+  margin-top: 2px;
+}
+
+p {
+  font-size: larger;
+}
+
+.coropca {
+  width: 30px;
+  height: 30px;
+  background-color: antiquewhite;
+}
+
+.coropca1 {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(190, 68, 214);
+}
+
+.coropca2 {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(42, 87, 212);
+}
+
+.coropca3 {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+}
+
+.corop {
+  width: 30px;
+  height: 30px;
+  background-color: aqua;
+}
+
+.corop1 {
+  width: 30px;
+  height: 30px;
+  background-color: blue;
+}
+
+.corop2 {
+  width: 30px;
+  height: 30px;
+  background-color: crimson;
+}
+
+.corop3 {
+  width: 30px;
+  height: 30px;
+  background-color: gold;
+}
